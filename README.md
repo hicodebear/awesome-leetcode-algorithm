@@ -2,7 +2,10 @@
 ACM金牌选手讲解《算法与数据结构》
 
 文章最新首发于微信公众号 **编程熊**，您可以关注获取最新的文章。
-![](https://user-images.githubusercontent.com/87517460/126327136-265e3bdf-705b-448d-a492-0d28f38c48a3.png)
+
+
+![](https://user-images.githubusercontent.com/87517460/126327367-c35004e6-a0b8-4f09-9112-7d9f655b50df.png){:height="50%" width="50%"}
+
 
 
 
