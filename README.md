@@ -5,7 +5,7 @@ ACM金牌选手讲解《算法与数据结构》
 
 
 
-WechatIMG872.png<img width="510" alt="WechatIMG872" src="https://user-images.githubusercontent.com/87517460/126328977-f2f60afe-804a-452d-8405-15620bf995e1.png">
+<img width="510" alt="WechatIMG872" src="https://user-images.githubusercontent.com/87517460/126328977-f2f60afe-804a-452d-8405-15620bf995e1.png">
 
 
 
