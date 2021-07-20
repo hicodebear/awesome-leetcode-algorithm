@@ -4,7 +4,8 @@ ACM金牌选手讲解《算法与数据结构》
 文章最新首发于微信公众号 **编程熊**，您可以关注获取最新的文章。
 
 
-<img width="500" alt="WechatIMG871" src="https://user-images.githubusercontent.com/87517460/126328354-b6900cf7-9256-4579-ad16-4f70c5805c41.png">
+
+WechatIMG872.png<img width="510" alt="WechatIMG872" src="https://user-images.githubusercontent.com/87517460/126328977-f2f60afe-804a-452d-8405-15620bf995e1.png">
 
 
 
