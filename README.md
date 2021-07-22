@@ -6,7 +6,7 @@
 
 
 
-<img width="830" alt="WechatIMG904" src="https://user-images.githubusercontent.com/87517460/126630111-26b88f9d-1999-41ec-9503-bb4d05c3e13f.png">
+<img width="530" alt="WechatIMG904" src="https://user-images.githubusercontent.com/87517460/126630111-26b88f9d-1999-41ec-9503-bb4d05c3e13f.png">
 
 
 
