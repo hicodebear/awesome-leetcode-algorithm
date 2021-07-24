@@ -5,7 +5,7 @@
 
 
 
-<img width="676" alt="正视图" src="https://user-images.githubusercontent.com/87517460/126794283-e42f0e17-9ea8-4779-ae55-e898971e65c9.png">
+<img width="676" alt="正视图" src="https://gitee.com/hicodebear/upic/raw/master/uPic/%E6%AD%A3%E8%A7%86%E5%9B%BE.png">
 
 
 
