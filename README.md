@@ -1,4 +1,4 @@
-# leetcode-algorithm
+# leetcode-algo
 《ACM金牌选手讲解LeetCode算法系列》
 
 文章最新首发于微信公众号 **编程熊**，您可以关注获取最新的文章。
