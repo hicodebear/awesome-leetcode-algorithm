@@ -5,7 +5,7 @@
 
 
 
-<img width="676" alt="正视图" src="https://cdn.jsdelivr.net/gh/hicodebear/images/%E6%AD%A3%E8%A7%86%E5%9B%BE.png">
+<img width="676" alt="二维码" src="https://ae03.alicdn.com/kf/H5d031bbaf0e04478b5d9491ed883bef5T.png">
 
 
 
