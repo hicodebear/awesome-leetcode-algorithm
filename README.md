@@ -1,6 +1,8 @@
-## awesome-leetcode-algorithm: 计算机学习必备资料 & LeetCode算法、题解
+## awesome-leetcode-algorithm: LeetCode算法、题解 & 算法与数据结构学习核心资料
 
-《ACM金牌选手讲解LeetCode算法系列》
+**《ACM金牌选手讲解LeetCode算法系列》作者**
+
+
 
 文章最新首发于微信公众号 **编程熊**，您可以关注获取最新的文章。
 
