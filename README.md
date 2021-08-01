@@ -1,6 +1,6 @@
 # awesome-leetcode-algorithm: LeetCode算法和题解 & 算法与数据结构学习核心资料
 
-- **《ACM金牌选手讲解LeetCode算法系列》作者**
+- **ACM金牌选手讲解LeetCode算法系列 作者**
 - **字节跳动、旷视科技前员工**
 - **ACM-ICPC亚洲区域赛金牌**
 
@@ -11,7 +11,7 @@
 
 # 算法书籍📚
 
-**所有电子书在公众号【编程熊 】，扫码关注下面公众号，回复「书」 就可以免费获取下面所有计算机学习核心资料：**
+**所有电子书在公众号【编程熊】，扫码关注下面公众号，回复「书」 就可以免费获取下面所有计算机学习核心资料：**
 
 [**一键领取所有资料**](https://mp.weixin.qq.com/s/AgoVT6LkHojzG6ixbWgGJw)
 
@@ -34,7 +34,6 @@
 
 
 <img width="676" alt="二维码" src="https://github.com/hicodebear/images/blob/main/%E6%AD%A3%E8%A7%86%E5%9B%BE.png">
-
 
 
 
