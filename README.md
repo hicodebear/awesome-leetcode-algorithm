@@ -1,4 +1,4 @@
-# awesome-leetcode-algorithm 计算机学习必备资料 & LeetCode算法、题解
+## awesome-leetcode-algorithm: 计算机学习必备资料 & LeetCode算法、题解
 
 《ACM金牌选手讲解LeetCode算法系列》
 
