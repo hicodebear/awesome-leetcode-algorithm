@@ -8,6 +8,8 @@
 
 文章最新首发于微信公众号【**编程熊**】，您可以关注获取最新的文章。
 
+仓库持续更新中，star不迷路~
+
 <img width="676" alt="二维码" src="https://github.com/hicodebear/images/blob/main/%E6%AD%A3%E8%A7%86%E5%9B%BE.png">
 
 
