@@ -2,7 +2,7 @@
   <a href="https://mp.weixin.qq.com/s/TsTcCDboXwnTnUeIW3Zg9Q"><img src="https://img.shields.io/badge/LeetCode组队刷题群-blueviolet" alt=""></a>
 </p>
 
-## 0001-Two-Sum-两数之和.md
+## 0001-Two-Sum-两数之和
 https://leetcode-cn.com/problems/two-sum/
 
 ## 题意
