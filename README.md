@@ -1,5 +1,7 @@
 # awesome-leetcode-algorithm: LeetCode算法和题解 & 算法与数据结构学习核心资料
 
+[**关于我**](https://mp.weixin.qq.com/s/goJ_kJ9jKAksFZfeNb51-w)
+
 - **ACM金牌选手讲解LeetCode算法系列 作者**
 - **字节跳动、旷视科技前员工**
 - **ACM-ICPC亚洲区域赛金牌**
@@ -8,7 +10,9 @@
 
 文章最新首发于微信公众号【**编程熊**】，您可以关注获取最新的文章。
 
-仓库持续更新中，star不迷路~
+**LeetCode超清晰题解系列 持续更新，star不迷路~**
+
+**ACM金牌选手讲解LeetCode算法系列 持续更新，star不迷路~**
 
 <img width="676" alt="二维码" src="https://github.com/hicodebear/images/blob/main/%E6%AD%A3%E8%A7%86%E5%9B%BE.png">
 
@@ -34,8 +38,6 @@
 - 算法竞赛入门经典训练指南(高清).pdf
 
 - 背包九讲.pdf
-
-
 
 
 
