@@ -22,6 +22,11 @@
 
 <img width="676" alt="二维码" src="https://github.com/hicodebear/images/blob/main/%E6%AD%A3%E8%A7%86%E5%9B%BE.png">
 
+# ACM金牌选手讲解LeetCode算法
+
+- [ACM金牌选手讲解LeetCode算法《线性表》](https://mp.weixin.qq.com/s/qwaYOFIksFVqZtA_nisl6g)
+- [ACM金牌选手讲解LeetCode算法《栈和队列的高级应用》](https://mp.weixin.qq.com/s/I3DQOUmABmWav4nrAiI3Fg)
+
 
 # 算法书籍📚
 
