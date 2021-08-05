@@ -8,7 +8,7 @@
 
 
 
-文章最新首发于微信公众号【**编程熊**】，您可以关注获取最新的文章。
+文章最新首发于微信公众号[【**编程熊**】](#公众号)，您可以关注获取最新的文章。
 
 **LeetCode超清晰题解系列 持续更新，star不迷路~**
 
@@ -53,6 +53,7 @@
 
 - 背包九讲.pdf
 
+# 公众号
 
 <img width="676" alt="二维码" src="https://github.com/hicodebear/images/blob/main/%E6%AD%A3%E8%A7%86%E5%9B%BE.png">
 
