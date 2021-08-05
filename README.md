@@ -10,6 +10,13 @@
 
 文章最新首发于微信公众号【**编程熊**】，您可以关注获取最新的文章。
 
+
+我创建了一个[**LeetCode组队刷题群**](https://mp.weixin.qq.com/s/TsTcCDboXwnTnUeIW3Zg9Q)，里面众多ACM竞赛金银牌选手、大厂员工，985研究生等，欢迎大家入群一起刷题，一群人可以走的更远~
+
+![LeetCode组队刷题群](https://user-images.githubusercontent.com/87517460/128285841-c7a2ba8c-7ff9-4933-a8bd-e8883912aefd.jpeg)
+
+
+
 **LeetCode超清晰题解系列 持续更新，star不迷路~**
 
 **ACM金牌选手讲解LeetCode算法系列 持续更新，star不迷路~**
