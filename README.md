@@ -20,7 +20,6 @@
 <img width="276" alt="LeetCode组队刷题群" src="https://user-images.githubusercontent.com/87517460/128285841-c7a2ba8c-7ff9-4933-a8bd-e8883912aefd.jpeg">
 
 
-<img width="676" alt="二维码" src="https://github.com/hicodebear/images/blob/main/%E6%AD%A3%E8%A7%86%E5%9B%BE.png">
 
 # ACM金牌选手讲解LeetCode算法
 
@@ -49,6 +48,9 @@
 - 算法竞赛入门经典训练指南(高清).pdf
 
 - 背包九讲.pdf
+
+
+<img width="676" alt="二维码" src="https://github.com/hicodebear/images/blob/main/%E6%AD%A3%E8%A7%86%E5%9B%BE.png">
 
 
 ## 免责声明
