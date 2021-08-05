@@ -1,6 +1,6 @@
 # awesome-leetcode-algorithm: LeetCode算法和题解 & 算法与数据结构学习核心资料
 
-[**关于我**](https://mp.weixin.qq.com/s/goJ_kJ9jKAksFZfeNb51-w)
+[**我的故事💖**](https://mp.weixin.qq.com/s/goJ_kJ9jKAksFZfeNb51-w)
 
 - **ACM金牌选手讲解LeetCode算法系列 作者**
 - **字节跳动、旷视科技前员工**
