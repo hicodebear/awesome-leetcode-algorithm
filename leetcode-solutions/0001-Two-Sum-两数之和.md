@@ -32,7 +32,7 @@ https://leetcode-cn.com/problems/two-sum/
 
 下图以示例演示一下哈希表，将数组插入到哈希表中，查找给定的`key`，即可以在`O(1)` 的时间复杂度查找到，图中的a、b、c、d指的是哈希表的索引。
 
-<img width="676" alt="示例" src="https://user-images.githubusercontent.com/87517460/128287010-e268ab24-d3fd-495e-ad8c-16703ad4251e.png">
+<img width="476" alt="示例" src="https://user-images.githubusercontent.com/87517460/128287010-e268ab24-d3fd-495e-ad8c-16703ad4251e.png">
 
 
 ## Java代码
