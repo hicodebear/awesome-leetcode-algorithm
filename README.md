@@ -23,6 +23,10 @@
 
 # ACM金牌选手讲解LeetCode算法
 
+
+<img width="376" alt="算法与数据结构知识点" src="https://user-images.githubusercontent.com/87517460/128294622-f1ef2419-094f-44ac-b668-610a0bdc798e.png">
+
+
 - [ACM金牌选手讲解LeetCode算法《线性表》](https://mp.weixin.qq.com/s/qwaYOFIksFVqZtA_nisl6g)
 - [ACM金牌选手讲解LeetCode算法《栈和队列的高级应用》](https://mp.weixin.qq.com/s/I3DQOUmABmWav4nrAiI3Fg)
 
