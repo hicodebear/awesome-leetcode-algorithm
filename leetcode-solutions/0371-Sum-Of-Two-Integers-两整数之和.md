@@ -1,5 +1,9 @@
 # LeetCode [371. 两整数之和](https://leetcode-cn.com/problems/sum-of-two-integers/)
 
+<p align="center">
+  <a href="https://mp.weixin.qq.com/s/TsTcCDboXwnTnUeIW3Zg9Q"><img src="https://img.shields.io/badge/LeetCode组队刷题群-blueviolet" alt=""></a>
+</p>
+
 ## 题解
 
 题目要求不能使用 $+、-$​，自然想到使用其他的二元运算符，我们可以根据二进制位，选择位运算符计算得到两数之和。
